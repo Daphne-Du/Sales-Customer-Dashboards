@@ -57,6 +57,6 @@ Helps understand customer behavior, loyalty, and profitability.
 │ └─ customer_dashboard.png
 │ └─ sales_dashboard.png
 ├─ workbook/
-│ └─ Sales & Customer Dashboards.twbx
+│ └─ Sales_&_Customer_Dashboards.twbx
 └─ README.md
 ```
