@@ -48,8 +48,6 @@ Helps understand customer behavior, loyalty, and profitability.
 
 ## Project Structure
 ```
-├─ workbook/
-│ └─ Sales & Customer Dashboards.twbx
 ├─ data/
 │ └─ Customers.csv
 │ └─ Location.csv
@@ -58,5 +56,7 @@ Helps understand customer behavior, loyalty, and profitability.
 ├─ img/
 │ └─ customer_dashboard.png
 │ └─ sales_dashboard.png
+├─ workbook/
+│ └─ Sales & Customer Dashboards.twbx
 └─ README.md
 ```
