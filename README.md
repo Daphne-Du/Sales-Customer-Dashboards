@@ -40,6 +40,11 @@ Helps understand customer behavior, loyalty, and profitability.
 - **Flexible filters** for product & location information  
 
 ---
+## Dashboard Preview
+### Sales Dashboard 
+![Sales Dashboard](https://github.com/Daphne-Du/Sales-Customer-Dashboards/blob/main/Sales_Customer_Dashboards/img/sales_dashboard.png) 
+### Customer Dashboard 
+![Customer Dashboard](https://github.com/Daphne-Du/Sales-Customer-Dashboards/blob/main/Sales_Customer_Dashboards/img/customer_dashboard.png)
 
 ## Project Structure
 ```
