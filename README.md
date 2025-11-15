@@ -46,6 +46,10 @@ Helps understand customer behavior, loyalty, and profitability.
 ### Customer Dashboard 
 ![Customer Dashboard](https://github.com/Daphne-Du/Sales-Customer-Dashboards/blob/main/Sales_Customer_Dashboards/img/customer_dashboard.png)
 
+## Tableau Public Dashboard
+
+**[Click to View the Live Dashboard](https://public.tableau.com/app/profile/caixuan.du1815/viz/Sales__Customer_Dashboards_17631694621700/SalesDashboard?publish=yes)**  
+
 ## Project Structure
 ```
 ├─ data/
